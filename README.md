@@ -15,3 +15,12 @@
   * infrastructure
     * jenkins jobs
 
+## Nodes
+* jenkins
+* artifactory
+* nagios/munin/logs
+* app server template 
+* db server template
+* web server template
+
+
